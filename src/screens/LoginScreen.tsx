@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {
   View, Text, TouchableOpacity,
-  StyleSheet, KeyboardAvoidingView, Platform, ScrollView, Image,
+  StyleSheet, KeyboardAvoidingView, Platform, ScrollView,
 } from 'react-native';
 import { LoadingFeedback } from '../components/LoadingFeedback';
 import { InputForm } from '../components/InputForm';
@@ -40,14 +40,8 @@ export const LoginScreen: React.FC<Props> = ({ onLogin }) => {
     >
       <ScrollView contentContainerStyle={styles.inner}>
         <View style={styles.card}>
-          <View style={styles.logoContainer}>
-            <Image 
-              source={require('../../assets/logo.png')} 
-              style={styles.imageLogo} 
-              resizeMode="contain"
-            />
-          </View>
-          <Text style={styles.title}>CarePlus</Text>
+
+          <Text style={styles.title}>H-bit</Text>
           <Text style={styles.subtitle}>Viva mais, melhor e feliz</Text>
 
           <InputForm
@@ -91,8 +85,7 @@ const styles = StyleSheet.create({
     shadowRadius: 12,
     elevation: 5,
   },
-  logoContainer: { alignItems: 'center', marginBottom: 16 },
-  imageLogo: { width: 100, height: 100 },
+
   title: { color: Colors.secondary, fontSize: 32, fontWeight: '800', textAlign: 'center' },
   subtitle: { color: Colors.textSecondary, fontSize: 16, textAlign: 'center', marginBottom: 32 },
   button: {

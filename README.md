@@ -1,4 +1,4 @@
-# CarePlus — Mobile Health Monitoring
+# H-bit — Mobile Health Monitoring
 
 Este projeto é uma aplicação mobile foi desenvolvido com o objetivo de oferecer uma interface para o monitoramento de dados de saúde, permitindo que os usuários acompanhem métricas vitais de forma simples e intuitiva.
 
@@ -18,12 +18,12 @@ Este projeto é uma aplicação mobile foi desenvolvido com o objetivo de oferec
 - **Registro de Dados (IoT Simulation):** Interface para entrada de métricas de saúde com validação em tempo real.
 - **Histórico de Registros:** Visualização em lista (FlatList) de todos os dados salvos localmente.
 - **Perfil do Usuário:** Gerenciamento de conta com botão de Sair e opção de Resetar Histórico.
-- **Design Premium:** Interface inspirada na identidade visual da CarePlus, com foco em usabilidade e estética moderna.
+- **Design Premium:** Interface inspirada na identidade visual da H-bit, com foco em usabilidade e estética moderna.
 
 ## Estrutura do Projeto
 
 ```text
-CarePlus/
+H-bit/
 ├── assets/             # Imagens, logotipos e ícones
 ├── src/
 │   ├── components/     # Componentes reutilizáveis (HealthCard, InputForm, Loading)

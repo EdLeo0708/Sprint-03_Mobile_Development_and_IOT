@@ -60,7 +60,7 @@ export const AppNavigator: React.FC<Props> = ({ user, onLogout }) => (
         name={Screen.HOME}
         options={{ 
           tabBarIcon: () => icon('🏠'), 
-          title: 'CarePlus',
+          title: 'H-bit',
           headerRight: () => <ProfileAvatar />
         }}
       >

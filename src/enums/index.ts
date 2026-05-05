@@ -6,8 +6,8 @@ export enum MoodLevel {
 }
 
 export enum StorageKeys {
-  USER = '@careplus:user',
-  RECORDS = '@careplus:records',
+  USER = '@h-bit:user',
+  RECORDS = '@h-bit:records',
 }
 
 export enum Screen {

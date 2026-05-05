@@ -1,6 +1,6 @@
 export const Colors = {
-  primary: '#0079C8',     // Lochmara Blue (CarePlus Brand)
-  secondary: '#002D5C',   // Bupa Navy (CarePlus Brand)
+  primary: '#0079C8',     // Lochmara Blue (H-bit Brand)
+  secondary: '#002D5C',   // Bupa Navy (H-bit Brand)
   accent: '#009EE0',      // Digital Cyan
   background: '#FFFFFF',
   surface: '#F5F7FA',     // Light surface for cards
