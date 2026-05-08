@@ -64,4 +64,14 @@ Para facilitar a avaliação, utilize o login abaixo:
 Disciplina: Mobile Development and IoT  
 Sprint: 3  
 Instituição: FIAP  
-Ano: 2024
+Sala: 3ESPA
+
+---
+
+## Grupo 
+
+Edson Leonardo - RM553737
+Eduardo Mazelli - RM553236
+Joseh Gabriel - RM553094
+Lucas Masaki - RM553084
+Pedro Henrique - RM552746
