@@ -71,7 +71,11 @@ Sala: 3ESPA
 ## Grupo 
 
 Edson Leonardo - RM553737
+
 Eduardo Mazelli - RM553236
+
 Joseh Gabriel - RM553094
+
 Lucas Masaki - RM553084
+
 Pedro Henrique - RM552746
